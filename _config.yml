@@ -1,1 +1,2 @@
 theme: jekyll-theme-tactile
+<title>{{ site.title | default: site.github.repository_name }}</title>
